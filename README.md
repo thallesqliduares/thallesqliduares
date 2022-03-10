@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, welcome to my GitHub page! 👋
 
 
 
@@ -9,4 +9,4 @@ previous professional experiences in economic consultancy for infrastructure sec
 My main interests are Econometric Modeling, Machine Learning, Data Science and BI.
 
 
--->
+
