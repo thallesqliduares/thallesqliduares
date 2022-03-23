@@ -1,14 +1,6 @@
 
 
 ### Hi, welcome to my GitHub page! 😀
-
- 
-    
-</div>
-  
-  ![Snake animation](https://github.com/thallesqliduares/thallesqliduares/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
  
 
 
