@@ -1,3 +1,5 @@
+<div>
+
 ### Hi, welcome to my GitHub page! 😀
 
 
@@ -10,3 +12,5 @@ My main interests and projects are in following topics: Econometric Modeling, Ma
 
 
 ![Snake animation](https://github.com/thallesqliduares/thallesqliduares/blob/output/github-contribution-grid-snake.svg)
+
+</div>
