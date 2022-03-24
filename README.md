@@ -12,6 +12,6 @@ previous professional experiences in economic consultancy for infrastructure sec
 My main interests and projects are in following topics: Econometric Modeling, Machine Learning, Data Science and Business Intelligence.
 
  <div>
- ![Snake animation](https://github.com/ellen2121/ellen2121/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/thallesqliduares/thallesqliduares/blob/output/github-contribution-grid-snake.svg)
 
  </div>
