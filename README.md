@@ -7,9 +7,11 @@
 
 My main interests and projects are in following topics:
 
-📶Econometric Modelling
-💻 Machine Learning
-📊 Business Intelligence.
+\itemize
+
+\item 📶Econometric Modelling
+\item 💻 Machine Learning
+\item 📊 Business Intelligence.
 
 Studying at the moment: 
 
