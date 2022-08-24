@@ -12,7 +12,7 @@ My main interests and projects are in following topics:
  💻 Machine Learning
  📊 Business Intelligence.
 
-
+------------------------
 
 Studying at the moment: 
 
