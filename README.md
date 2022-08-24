@@ -7,11 +7,13 @@
 
 My main interests and projects are in following topics:
 
-\itemize
+\begin{\itemize}
 
 \item 📶Econometric Modelling
 \item 💻 Machine Learning
 \item 📊 Business Intelligence.
+
+\end{itemize}
 
 Studying at the moment: 
 
