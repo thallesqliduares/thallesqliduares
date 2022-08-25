@@ -18,5 +18,5 @@ My main interests and projects are in following topics:
 
 Studying at the moment: 
 
-📚 Data Engineering.
+📚 DBA and ML Models.
 
