@@ -7,7 +7,7 @@
 
 *MSc Economist*.
 
-My main interests and projects are in following topics:
+My main interests and projects are in following areas:
 
 
  📶Econometric Modelling
