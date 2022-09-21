@@ -18,5 +18,5 @@ My main interests and projects are in following areas:
 
 Studying at the moment: 
 
-📚 DBA and ML Models in R and Python.
+📚  Data Engineering and ML Models in R and Python.
 
